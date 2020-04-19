@@ -1,0 +1,14 @@
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/ChildSearchActor.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/model/MasterRequest.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/model/ChildRequest.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/searchers/Google.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/model/SearchResult.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/model/MasterResponse.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/searchers/SearchClient.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/MasterSearchActor.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/model/ChildResponse.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/ResultHolder.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/searchers/StubServer.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/Main.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/searchers/Yandex.java
+/Users/ilya/IdeaProjects/software-design/akka/src/main/java/model/SearchAggregator.java
