@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "MFGP",
+    "name": "Micro",
+    "currency": "USD",
+    "stocksCount": 200
+  },
+  {
+    "symbol": "PUMP",
+    "name": "Petro",
+    "currency": "USD",
+    "stocksCount": 200
+  },
+  {
+    "symbol": "YNDX",
+    "name": "Yandex",
+    "currency": "USD",
+    "stocksCount": 200
+  }
+]

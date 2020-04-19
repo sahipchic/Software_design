@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "ilyja",
+    "currencies": "{\"USD\":200.0}",
+    "stocks": "{}"
+  },
+  {
+    "id": 2,
+    "name": "masha",
+    "currencies": "{\"EUR\":40.0}",
+    "stocks": "{}"
+  },
+  {
+    "id": 3,
+    "name": "vika",
+    "currencies": "{\"USD\":153.0}",
+    "stocks": "{}"
+  }
+]
